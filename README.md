@@ -7,4 +7,4 @@ Hey, It's me **diego**.
 - 📚 I'm a high school student
 - 📫 Discord: realdiegopoptart#2998
 
-###### Working on Argonath RPG III:MP, Vex Tipping Point game code, and Discord GTA:C Module
+###### Working on Argonath RPG III:MP, and Discord GTA:C Module
