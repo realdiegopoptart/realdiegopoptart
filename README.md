@@ -7,4 +7,7 @@ Hey, It's me **diego**.
 - 📚 I'm a high school student
 - 📫 Discord: realdiegopoptart#2998
 
-###### Working on Argonath RPG III:MP, and Discord GTA:C Module
+###### Working on Argonath RPG III:MP
+
+
+![Diego's github stats](https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=gruvbox
