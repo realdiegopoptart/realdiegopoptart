@@ -8,33 +8,7 @@ I code stuff
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dracula"/>
 
-Pawn
-Javascript
-Python
-PHP/HTML/CSS
-SQL
-
-
-table {
-  font-family: arial, sans-serif;
-  border-collapse: collapse;
-  width: 100%;
-}
-
-td, th {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-
-tr:nth-child(even) {
-  background-color: #dddddd;
-}
-</style>
-</head>
-<body>
-
-<h2>HTML Table</h2>
+<h2>Languages I know</h2>
 
 <table>
   <tr>
@@ -60,14 +34,14 @@ tr:nth-child(even) {
   </tr>
   
   <tr>
-    <td>2/3</td>
-    <td>1/3</td>
-    <td>3/3</td>
-    <td>2/3</td>
-    <td>2/3</td>
-    <td>2.5/3</td>
-    <td>1/3</td>
-    <td>2/3</td>
+    <td>Experince 2/3</td>
+    <td>Experince 1/3</td>
+    <td>Experince 3/3</td>
+    <td>Experince 2/3</td>
+    <td>Experince 2/3</td>
+    <td>Experince 2.5/3</td>
+    <td>Experince 1/3</td>
+    <td>Experince 2/3</td>
   </tr>
   
 </table>
