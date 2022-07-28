@@ -16,7 +16,7 @@ I code stuff
     <th>Java</th>
     <th>HTML/CSS</th>
     <th>PHP</th>
-    <th>Python></th>
+    <th>Python</th>
     <th>Pawn</th>
     <th>Lua</th>
     <th>Git</th>
