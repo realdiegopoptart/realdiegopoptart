@@ -34,14 +34,14 @@ I code stuff
   </tr>
   
   <tr>
-    <td>Experince 2/3</td>
-    <td>Experince 1/3</td>
-    <td>Experince 3/3</td>
-    <td>Experince 2/3</td>
-    <td>Experince 2/3</td>
-    <td>Experince 2.5/3</td>
-    <td>Experince 1/3</td>
-    <td>Experince 2/3</td>
+    <td>Experince 3/5</td>
+    <td>Experince 2/5</td>
+    <td>Experince 4.5/5</td>
+    <td>Experince 3.5/5</td>
+    <td>Experince 3.5/5</td>
+    <td>Experince 4/5</td>
+    <td>Experince 1/5</td>
+    <td>Experince 4/5</td>
   </tr>
   
 </table>
