@@ -6,7 +6,7 @@ Discord: realdiegopoptart#2998
 
 I code stuff
 
-<center>[![Discord Presence](https://lanyard.cnrad.dev/api/342126796705103872)](https://discord.com/users/342126796705103872)</center>
+<center><img src="https://lanyard.cnrad.dev/api/342126796705103872" href="https://discord.com/users/342126796705103872"/></center>
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dracula"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dracula"/>
 
