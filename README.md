@@ -8,7 +8,7 @@ I code stuff
 
 <center><img src="https://lanyard.cnrad.dev/api/342126796705103872" href="https://discord.com/users/342126796705103872"/></center>
 
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dark&bg_color=1a1c1f&include_all_commits=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dark&bg_color=1a1c1f&include_all_commits=true&hide_border=true"/> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true"/>
 
 <h2>Languages I know</h2>
 
