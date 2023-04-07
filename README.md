@@ -38,7 +38,7 @@ I code stuff
   
   <tr>
     <td>Enjoyable 3.5/5</td>
-    <td>Enjoyable 1/5</td>
+    <td>Enjoyable 0.5/5</td>
     <td>Enjoyable 4.5/5</td>
     <td>Enjoyable 3/5</td>
     <td>Enjoyable 3.5/5</td>
