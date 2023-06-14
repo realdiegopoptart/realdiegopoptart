@@ -29,7 +29,7 @@ I code stuff
   
   <tr>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-javascript.png"/></center></td>
-<!--     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/></td> -->
+    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/><center></td>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-html.png"/></center></td>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-php.png"/></center></td>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-python.png"/></center></td>
