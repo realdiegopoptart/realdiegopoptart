@@ -36,16 +36,6 @@ I code stuff
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-git.png"/></center></td>
   </tr>
   
-  <tr>
-    <td>Enjoyable 3.5/5</td>
-    <td>Enjoyable 0.5/5</td>
-    <td>Enjoyable 4.5/5</td>
-    <td>Enjoyable 3/5</td>
-    <td>Enjoyable 3.5/5</td>
-    <td>Enjoyable 1/5</td>
-    <td>Enjoyable 4/5</td>
-  </tr>
-  
 </table>
 
 </body>
