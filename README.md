@@ -10,8 +10,9 @@ I code stuff
 <img src="https://lanyard.cnrad.dev/api/342126796705103872" href="https://discord.com/users/342126796705103872"/>
 </p>
   
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dark&include_all_commits=true&bg_color=1a1c1f&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true"/></p>
+<!-- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dark&include_all_commits=true&bg_color=1a1c1f&hide_border=true"/> -->
+
+<!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true"/></p> -->
 
 <h2>Languages that I've tried</h2>
 
@@ -28,7 +29,7 @@ I code stuff
   
   <tr>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-javascript.png"/></center></td>
-    <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/></td>
+<!--     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-java.png"/></td> -->
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-html.png"/></center></td>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-php.png"/></center></td>
     <td><center><img height="64em" src="https://raw.githubusercontent.com/realdiegopoptart/realdiegopoptart/main/assets/langs/lang-python.png"/></center></td>
