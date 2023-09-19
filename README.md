@@ -14,7 +14,7 @@ I code stuff
 
 <!-- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=realdiegopoptart&layout=compact&langs_count=7&theme=dark&bg_color=1a1c1f&hide_border=true"/></p> -->
 
-<h2>Languages that I've tried</h2>
+<h2>Languages that I enjoy using./h2>
 
 <table>
   <tr>
