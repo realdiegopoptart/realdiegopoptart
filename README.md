@@ -5,10 +5,6 @@ Hey, It's me **diego**.
 Discord: realdiegopoptart#2998
 
 I code stuff
-
-<p align="center">
-<img src="https://lanyard.cnrad.dev/api/342126796705103872" href="https://discord.com/users/342126796705103872"/>
-</p>
   
 <!-- <p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=realdiegopoptart&show_icons=true&count_private=true&theme=dark&include_all_commits=true&bg_color=1a1c1f&hide_border=true"/> -->
 
